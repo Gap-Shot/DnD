@@ -1,0 +1,27 @@
+This software will be designed for making D&D easier and more enjoyable to watch and play. THis will be done by 
+keeping track of as well as appealingly showing stats such as health and AC. It will eventually have effects 
+and transitions i.e. moving health bar down with a blood splatter or up with health crosses. 
+
+	- have effects/transitions to show changes in statuses and health
+		* a little shake on image/portrait on damage
+		* blood splatter or arcane explosion
+		
+	- show AC and other static stats 
+	
+	- show and keep track of health
+	
+	- show status effects 
+	
+	- incorporate twitch widget to allow chat to see details about a specific
+	  player or npc while the main aview shows important/relevant information
+	  to minimize clutter and focus attention
+	  
+	- incorporate screens for viewing and screens for changing stuff
+	
+	- incorporate a time/calendar system with capability to add events to dates
+	  and inform the users of such events 
+		* events happening in the worl like a holiday
+		* players birthdays
+	
+	- add the ability to make, share and easily install custom skins
+		* like minecraft :) 
