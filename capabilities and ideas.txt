@@ -25,3 +25,8 @@ and transitions i.e. moving health bar down with a blood splatter or up with hea
 	
 	- add the ability to make, share and easily install custom skins
 		* like minecraft :) 
+
+
+Future Ideas
+	- create a scannner to read dice results to allow software to print them to viewers
+		* either a hardware scanner with specialized dice or cameras with some sort of ML software
